@@ -15,12 +15,25 @@ This repository preserves two distributions of the same codebase:
 
 ## Provenance
 
-The PDP-11 source was distributed as a shar archive. The PC/IX source was
-posted to Usenet `net.sources.games` in five parts. Both contain the same game
-code with minor platform differences.
+Both distributions were recovered from the Usenet archives preserved by the
+[SuperGlobalMegaCorp Altavista Archive](https://altavista.superglobalmegacorp.com/).
+The PDP-11 shar files were manually assembled from five individual postings;
+the PC/IX parts were extracted from the related `net.sources.games` group.
 
-The original Usenet postings for the PC/IX version were recovered from:
-- [net.sources.games archive](https://altavista.superglobalmegacorp.com/usenet/news026f2/b46/net/sources/games/)
+**PDP-11 source** (`net.sources`):
+- [Part 1](https://altavista.superglobalmegacorp.com/usenet/news021f2/b37/net/sources/2483.txt)
+- [Part 2](https://altavista.superglobalmegacorp.com/usenet/news021f2/b37/net/sources/2484.txt)
+- [Part 3](https://altavista.superglobalmegacorp.com/usenet/news021f2/b37/net/sources/2485.txt)
+- [Part 4](https://altavista.superglobalmegacorp.com/usenet/news021f2/b37/net/sources/2486.txt)
+- [Part 5](https://altavista.superglobalmegacorp.com/usenet/news021f2/b37/net/sources/2493.txt)
+- [Full archive directory](https://altavista.superglobalmegacorp.com/usenet/news021f2/b37/net/sources/)
+
+**PC/IX source** (`net.sources.games`):
+- [Part 1](https://altavista.superglobalmegacorp.com/usenet/news026f2/b46/net/sources/games/107.txt)
+- [Part 2](https://altavista.superglobalmegacorp.com/usenet/news026f2/b46/net/sources/games/110.txt)
+- [Part 3](https://altavista.superglobalmegacorp.com/usenet/news026f2/b46/net/sources/games/111.txt)
+- [Part 4](https://altavista.superglobalmegacorp.com/usenet/news026f2/b46/net/sources/games/108.txt)
+- [Part 5](https://altavista.superglobalmegacorp.com/usenet/news026f2/b46/net/sources/games/109.txt)
 
 ## Authors
 
